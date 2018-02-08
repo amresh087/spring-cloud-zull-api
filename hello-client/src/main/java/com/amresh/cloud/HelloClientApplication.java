@@ -13,7 +13,7 @@ import org.springframework.web.client.RestTemplate;
 @EnableCircuitBreaker
 @EnableDiscoveryClient
 @SpringBootApplication
-@ComponentScan("com.techprimers")
+@ComponentScan("com.amresh")
 public class HelloClientApplication {
 
 	public static void main(String[] args) {
